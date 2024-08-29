@@ -9,14 +9,23 @@ export const Global = () => {
   return (
     <_Global
       styles={css`
+
+        @font-face {
+          font-family: 'RIDIBatang';
+          src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff');
+          font-weight: normal;
+          font-style: normal;
+        }
+        
         body {
           margin: 0;
           padding: 0;
           color: ${theme.colors.gray12};
           background-color: ${theme.colors.gray2};
-          font-family: ${pretendard.style.fontFamily};
-          font-weight: ${pretendard.style.fontWeight};
-          font-style: ${pretendard.style.fontStyle};
+          font-family: 'RIDIBatang';
+          // font-family: ${pretendard.style.fontFamily};
+          // font-weight: ${pretendard.style.fontWeight};
+          // font-style: ${pretendard.style.fontStyle};
         }
 
         * {

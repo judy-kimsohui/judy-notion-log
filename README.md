@@ -92,7 +92,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 
 <details>
    <summary> Click to see FAQ </summary>
-   Q1: If you finish making avatar.jpeg, How to make favicon.ico and apple-touch-icon.png?
+   Q1: If you finish making avatar.png, How to make favicon.ico and apple-touch-icon.png?
    
    A1: check out https://www.favicon-generator.org/
    
