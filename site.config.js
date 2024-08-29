@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `judy-log`,
-      href: "https://github.com/judy-kimsohui",
+      name: `이력서(Resume)`,
+      href: "/resume",
     },
   ],
   // blog setting (required)
