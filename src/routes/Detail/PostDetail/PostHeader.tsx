@@ -86,7 +86,7 @@ const StyledWrapper = styled.div`
         align-items: center;
       }
       .hr {
-        margin-top: 0.25rem;
+        //margin-top: 0.25rem;
         margin-bottom: 0.25rem;
         align-self: stretch;
         width: 1px;
@@ -125,5 +125,6 @@ const StyledWrapper = styled.div`
         padding-bottom: 50%;
       }
     }
+    
   }
 `
