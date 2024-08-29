@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `judy-log`,
-      href: "https://github.com/morethanmin/judy-kimsohui",
+      href: "https://github.com/judy-kimsohui",
     },
   ],
   // blog setting (required)
@@ -31,7 +31,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: "0a9cd48e4860406ba1c1f0694cc0dee8",
+    pageId: process.env.NOTION_PAGE_ID,
   },
 
   // plugin configuration (optional)
@@ -54,7 +54,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",
