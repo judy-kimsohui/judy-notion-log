@@ -1,10 +1,10 @@
 {
-  "name": "morethan-log",
+  "name": "judy-kimsohui",
   "version": "1.3.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/morethanmin/morethan-log.git"
+    "url": "https://github.com/morethanmin/judy-kimsohui.git"
   },
   "scripts": {
     "dev": "next dev",

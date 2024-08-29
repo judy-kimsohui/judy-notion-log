@@ -15,7 +15,7 @@
 
 ## Related tickets
 
-https://github.com/morethanmin/morethan-log/issues/XX
+https://github.com/morethanmin/judy-kimsohui/issues/XX
 
 <!-- 4. Make sure the following actions are checked before finalising your PR -->
 

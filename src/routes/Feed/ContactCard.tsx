@@ -18,7 +18,7 @@ const ContactCard: React.FC = () => {
       <StyledWrapper>
         {CONFIG.profile.github && (
           <a
-            href={`https://github.com/${CONFIG.profile.github}`}
+            href={`https://github.com/judy-kimsohui`}
             rel="noreferrer"
             target="_blank"
           >
@@ -28,7 +28,7 @@ const ContactCard: React.FC = () => {
         )}
         {CONFIG.profile.instagram && (
           <a
-            href={`https://www.instagram.com/${CONFIG.profile.instagram}`}
+            href={``}
             rel="noreferrer"
             target="_blank"
           >
@@ -49,7 +49,7 @@ const ContactCard: React.FC = () => {
         )}
         {CONFIG.profile.linkedin && (
           <a
-            href={`https://www.linkedin.com/in/${CONFIG.profile.linkedin}`}
+            href={``}
             rel="noreferrer"
             target="_blank"
           >
