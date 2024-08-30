@@ -82,6 +82,14 @@ export const Global = () => {
           margin: 0;
           border-top: 1px solid ${theme.colors.gray6};
         }
+        
+        .notion-inline-code {
+          color: black;
+        }
+        
+        .notion-h {
+          width: 100%;
+        }
       `}
     />
   )
